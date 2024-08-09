@@ -56,6 +56,8 @@ body
 #post
 
 {
+    background: #777;
+    color: white;
     padding: 1em;
 }
 
