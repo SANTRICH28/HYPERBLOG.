@@ -7,5 +7,6 @@ Un blog increible para el curso de Git y Github de platzi
 * Todos los comando de git
 * El flujo de trabajo de github
 * El verdadero amor por las buenas practicas
+* Creado por santi
 
 Y como recordatorio **[SML][1]**
