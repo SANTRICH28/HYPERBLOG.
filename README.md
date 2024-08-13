@@ -8,5 +8,7 @@ Un blog increible para el curso de Git y Github de platzi
 * El flujo de trabajo de github
 * El verdadero amor por las buenas practicas
 * Creado por santi
+* Incluye cosas
+* Disponible para todas las edades
 
 Y como recordatorio **[SML][1]**
